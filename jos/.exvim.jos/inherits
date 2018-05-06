@@ -1,0 +1,3 @@
+"object" -> "QEMU"
+"Exception" -> "TerminateTest"
+"object" -> "GDBClient"

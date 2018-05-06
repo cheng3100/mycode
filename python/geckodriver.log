@@ -1,0 +1,820 @@
+1522566273475	geckodriver	INFO	geckodriver 0.20.0
+1522566273490	geckodriver	INFO	Listening on 127.0.0.1:49697
+1522566276510	mozrunner::runner	INFO	Running command: "D:\\Soft\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\xcche\\AppData\\Local\\Temp\\rust_mozprofile.m0E9gxJox0y9"
+1522566277122	Marionette	INFO	Enabled via --marionette
+1522566279040	Marionette	INFO	Listening on port 49705
+1522566279690	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1522566289362	geckodriver	INFO	geckodriver 0.20.0
+1522566289378	geckodriver	INFO	Listening on 127.0.0.1:49751
+1522566292380	mozrunner::runner	INFO	Running command: "D:\\Soft\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\xcche\\AppData\\Local\\Temp\\rust_mozprofile.FhZmPql9sY3A"
+1522566292984	Marionette	INFO	Enabled via --marionette
+1522566294706	Marionette	INFO	Listening on port 49759
+1522566295590	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 17016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 10260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1522567304222	geckodriver	INFO	geckodriver 0.20.0
+1522567304238	geckodriver	INFO	Listening on 127.0.0.1:50088
+1522567307255	mozrunner::runner	INFO	Running command: "D:\\Soft\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\xcche\\AppData\\Local\\Temp\\rust_mozprofile.SA5RaeoReIBm"
+1522567307908	Marionette	INFO	Enabled via --marionette
+1522567309780	Marionette	INFO	Listening on port 50096
+1522567310464	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+r\openvrpaths.vrpath
+[Child 10840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 2888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+1522567535190	geckodriver::marionette	ERROR	Failed to stop browser process
+1522567544298	geckodriver	INFO	geckodriver 0.20.0
+1522567544313	geckodriver	INFO	Listening on 127.0.0.1:50306
+1522567547315	mozrunner::runner	INFO	Running command: "D:\\Soft\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\xcche\\AppData\\Local\\Temp\\rust_mozprofile.DEYTxZCI8am9"
+1522567547978	Marionette	INFO	Enabled via --marionette
+1522567549886	Marionette	INFO	Listening on port 50314
+1522567550512	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4880, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4880, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4880, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ldThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1522567631318	geckodriver	INFO	geckodriver 0.20.0
+1522567631334	geckodriver	INFO	Listening on 127.0.0.1:50403
+1522567634351	mozrunner::runner	INFO	Running command: "D:\\Soft\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\xcche\\AppData\\Local\\Temp\\rust_mozprofile.uHMnb2aASrDk"
+1522567634976	Marionette	INFO	Enabled via --marionette
+1522567636864	Marionette	INFO	Listening on port 50411
+1522567637546	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 13100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1522567704646	geckodriver	INFO	geckodriver 0.20.0
+1522567704662	geckodriver	INFO	Listening on 127.0.0.1:50474
+1522567707664	mozrunner::runner	INFO	Running command: "D:\\Soft\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\xcche\\AppData\\Local\\Temp\\rust_mozprofile.koAmcHSzPQeY"
+1522567708276	Marionette	INFO	Enabled via --marionette
+1522567710112	Marionette	INFO	Listening on port 50482
+1522567710860	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 9968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+common/ipc_channel_win.cc, line 346
+[Child 12832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ore-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1522567893673	geckodriver	INFO	geckodriver 0.20.0
+1522567893689	geckodriver	INFO	Listening on 127.0.0.1:50668
+1522567896706	mozrunner::runner	INFO	Running command: "D:\\Soft\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\xcche\\AppData\\Local\\Temp\\rust_mozprofile.RXGHZ9WOorQ4"
+1522567897302	Marionette	INFO	Enabled via --marionette
+1522567899018	Marionette	INFO	Listening on port 50676
+1522567899902	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: 
+  TypeError: this.selection is undefined: _onBeforeNavigate@chrome://devtools/content/inspector/inspector.js:299:5
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/old-event-emitter.js:137:11
+_setupRemoteListeners/this._onTabNavigated@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/target.js:553:9
+eventSource/proto.emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/client/event-source.js:124:9
+onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/shared/client/debugger-client.js:917:7
+send/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:570:13
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+
+TypeError: this.selection is undefined: _onBeforeNavigate@chrome://devtools/content/inspector/inspector.js:299:5
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/old-event-emitter.js:137:11
+_setupRemoteListeners/this._onTabNavigated@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/target.js:553:9
+eventSource/proto.emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/client/event-source.js:124:9
+onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/shared/client/debugger-client.js:917:7
+send/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:570:13
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+
+console.error: 
+  TypeError: this.selection is undefined: _onBeforeNavigate@chrome://devtools/content/inspector/inspector.js:299:5
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/old-event-emitter.js:137:11
+_setupRemoteListeners/this._onTabNavigated@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/target.js:553:9
+eventSource/proto.emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/client/event-source.js:124:9
+onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/shared/client/debugger-client.js:917:7
+send/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:570:13
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+
+TypeError: this.selection is undefined: _onBeforeNavigate@chrome://devtools/content/inspector/inspector.js:299:5
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/old-event-emitter.js:137:11
+_setupRemoteListeners/this._onTabNavigated@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/target.js:553:9
+eventSource/proto.emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/client/event-source.js:124:9
+onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/shared/client/debugger-client.js:917:7
+send/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:570:13
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: walker is undefined
+Full stack: _getDefaultNodeForSelection@chrome://devtools/content/inspector/inspector.js:327:5
+Inspector.prototype.init<@chrome://devtools/content/inspector/inspector.js:160:34
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+console.error: 
+  Message: TypeError: walker is undefined
+  Stack:
+    _getDefaultNodeForSelection@chrome://devtools/content/inspector/inspector.js:327:5
+Inspector.prototype.init<@chrome://devtools/content/inspector/inspector.js:160:34
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+console.error: 
+  Message: Error: Connection closed, pending request to server1.conn0.child1/inspectorActor3, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1296:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1454:14
+InspectorFront<.getWalker<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:514:12
+initInspector/this._initInspector<@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js:2512:30
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+spawn@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:160:12
+initInspector@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js:2508:29
+loadTool@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js:1613:14
+selectTool@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js:1870:12
+open/<@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js:532:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+  Stack:
+    destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1239:23
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:510:5
+cleanup@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:891:5
+onClosed@resource://devtools/shared/base-loader.js -> resource://devtools/shared/client/debugger-client.js:1020:7
+close@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:668:11
+close@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:664:9
+close@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:664:9
+cleanup@resource://devtools/shared/base-loader.js -> resource://devtools/shared/client/debugger-client.js:277:7
+detachClients@resource://devtools/shared/base-loader.js -> resource://devtools/shared/client/debugger-client.js:301:9
+DebuggerClient.requester/</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/client/debugger-client.js:127:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+safeOnResponse@resource://devtools/shared/base-loader.js -> resource://devtools/shared/client/debugger-client.js:617:14
+listenerJson@resource://devtools/shared/base-loader.js -> resource://devtools/shared/client/debugger-client.js:638:25
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29
+emitReply@resource://devtools/shared/base-loader.js -> resource://devtools/shared/client/debugger-client.js:921:29
+callFunctionWithAsyncStack@resource://devtools/shared/base-loader.js -> resource://devtools/shared/platform/stack.js:56:10
+onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/shared/client/debugger-client.js:923:9
+send/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:570:13
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: toolDefinition is null
+Full stack: fireCustomKey@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js:1035:1
+selectToolCommand/<@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/devtools-browser.js:235:9
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+*************************
+console.error: 
+  Message: Error: Connection closed, pending request to server1.conn0.child1/inspectorActor3, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1296:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1454:14
+InspectorFront<.getWalker<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:514:12
+initInspector/this._initInspector<@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js:2512:30
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+TaskImpl@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:272:3
+asyncFunction@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:246:14
+spawn@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:160:12
+initInspector@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js:2508:29
+loadTool@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js:1613:14
+selectTool@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js:1870:12
+open/<@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js:532:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+  Stack:
+    destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1239:23
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:510:5
+cleanup@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:891:5
+onClosed@resource://devtools/shared/base-loader.js -> resource://devtools/shared/client/debugger-client.js:1020:7
+close@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:668:11
+close@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:664:9
+close@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:664:9
+cleanup@resource://devtools/shared/base-loader.js -> resource://devtools/shared/client/debugger-client.js:277:7
+detachClients@resource://devtools/shared/base-loader.js -> resource://devtools/shared/client/debugger-client.js:301:9
+DebuggerClient.requester/</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/client/debugger-client.js:127:9
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+safeOnResponse@resource://devtools/shared/base-loader.js -> resource://devtools/shared/client/debugger-client.js:617:14
+listenerJson@resource://devtools/shared/base-loader.js -> resource://devtools/shared/client/debugger-client.js:638:25
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29
+emitReply@resource://devtools/shared/base-loader.js -> resource://devtools/shared/client/debugger-client.js:921:29
+callFunctionWithAsyncStack@resource://devtools/shared/base-loader.js -> resource://devtools/shared/platform/stack.js:56:10
+onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/shared/client/debugger-client.js:923:9
+send/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:570:13
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 4132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1522568003476	geckodriver	INFO	geckodriver 0.20.0
+1522568003491	geckodriver	INFO	Listening on 127.0.0.1:50755
+1522568006509	mozrunner::runner	INFO	Running command: "D:\\Soft\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\xcche\\AppData\\Local\\Temp\\rust_mozprofile.lGglFNp60q4b"
+1522568007106	Marionette	INFO	Enabled via --marionette
+1522568008826	Marionette	INFO	Listening on port 50763
+1522568009688	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10880, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10880, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 1432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1522568134440	geckodriver	INFO	geckodriver 0.20.0
+1522568134456	geckodriver	INFO	Listening on 127.0.0.1:50875
+1522568137457	mozrunner::runner	INFO	Running command: "D:\\Soft\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\xcche\\AppData\\Local\\Temp\\rust_mozprofile.VRo6Gjw4qtXS"
+1522568138066	Marionette	INFO	Enabled via --marionette
+1522568139854	Marionette	INFO	Listening on port 50883
+1522568140664	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13876, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 3708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1522568371246	geckodriver	INFO	geckodriver 0.20.0
+1522568371262	geckodriver	INFO	Listening on 127.0.0.1:50978
+1522568374279	mozrunner::runner	INFO	Running command: "D:\\Soft\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\xcche\\AppData\\Local\\Temp\\rust_mozprofile.nVg2GIACMYpu"
+1522568374884	Marionette	INFO	Enabled via --marionette
+1522568376652	Marionette	INFO	Listening on port 50987
+1522568377506	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 15724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 3656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1522568993045	geckodriver	INFO	geckodriver 0.20.0
+1522568993060	geckodriver	INFO	Listening on 127.0.0.1:51118
+1522568996078	mozrunner::runner	INFO	Running command: "D:\\Soft\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\xcche\\AppData\\Local\\Temp\\rust_mozprofile.ndERaJb6tYZo"
+1522568996700	Marionette	INFO	Enabled via --marionette
+1522568998498	Marionette	INFO	Listening on port 51126
+1522568999262	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3964, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1522569033644	geckodriver	INFO	geckodriver 0.20.0
+1522569033660	geckodriver	INFO	Listening on 127.0.0.1:51173
+1522569036692	mozrunner::runner	INFO	Running command: "D:\\Soft\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\xcche\\AppData\\Local\\Temp\\rust_mozprofile.uC2ZDUg7HNDc"
+1522569037288	Marionette	INFO	Enabled via --marionette
+1522569039082	Marionette	INFO	Listening on port 51181
+1522569039856	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5148, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 14024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+1522569210997	geckodriver::marionette	ERROR	Failed to stop browser process
+1522569223974	geckodriver	INFO	geckodriver 0.20.0
+1522569224006	geckodriver	INFO	Listening on 127.0.0.1:51319
+1522569226992	mozrunner::runner	INFO	Running command: "D:\\Soft\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\xcche\\AppData\\Local\\Temp\\rust_mozprofile.TPfAOM12z9lm"
+1522569227588	Marionette	INFO	Enabled via --marionette
+1522569229268	Marionette	INFO	Listening on port 51327
+1522569230172	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9700, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1522569273411	geckodriver	INFO	geckodriver 0.20.0
+1522569273427	geckodriver	INFO	Listening on 127.0.0.1:51391
+1522569276428	mozrunner::runner	INFO	Running command: "D:\\Soft\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\xcche\\AppData\\Local\\Temp\\rust_mozprofile.gMrXP8t2cikD"
+1522569277068	Marionette	INFO	Enabled via --marionette
+1522569278848	Marionette	INFO	Listening on port 51399
+1522569279622	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12308, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12308, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 3136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1522569287951	geckodriver	INFO	geckodriver 0.20.0
+1522569287967	geckodriver	INFO	Listening on 127.0.0.1:51432
+1522569290969	mozrunner::runner	INFO	Running command: "D:\\Soft\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\xcche\\AppData\\Local\\Temp\\rust_mozprofile.L7ZLdaOZ3BjL"
+1522569291514	Marionette	INFO	Enabled via --marionette
+1522569293364	Marionette	INFO	Listening on port 51440
+1522569294206	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 15584, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15584, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1522569351907	geckodriver::marionette	ERROR	Failed to stop browser process
+1522569358227	geckodriver	INFO	geckodriver 0.20.0
+1522569358243	geckodriver	INFO	Listening on 127.0.0.1:51558
+1522569361262	mozrunner::runner	INFO	Running command: "D:\\Soft\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\xcche\\AppData\\Local\\Temp\\rust_mozprofile.LPrwdS0iMKDb"
+1522569361852	Marionette	INFO	Enabled via --marionette
+1522569363694	Marionette	INFO	Listening on port 51566
+1522569364444	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8484, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5
+Line: 1875, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5
+Line: 1875, column: 0
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5
+Line: 1875, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5
+Line: 1875, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7
+Line: 1875, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7
+Line: 1875, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7
+Line: 1875, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7
+Line: 1875, column: 0
+[Parent 8484, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4272, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 4272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode234, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 317 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode234, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 317 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode234, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 317 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode234, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 317 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode234, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 317 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode234, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 317 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+JavaScript warning: http://112.124.53.237/nat123CacheFolder/7777772E6E61743132332E636F6D/c5eda4d485ac402c9593635b6207aec9CD30CE38D034D031DF31C93ACE32C534C6_478536b21debb8e6bebc1cbdd8bd9b94/js/jquery-1.4.1.js, line 3612: unreachable code after return statement
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 14912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 17112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 18024, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 18024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 6188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1522571019695	geckodriver	INFO	geckodriver 0.20.0
+1522571019711	geckodriver	INFO	Listening on 127.0.0.1:52836
+1522571022738	mozrunner::runner	INFO	Running command: "D:\\Soft\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\xcche\\AppData\\Local\\Temp\\rust_mozprofile.h8bqyqOg9s0G"
+1522571023334	Marionette	INFO	Enabled via --marionette
+1522571025224	Marionette	INFO	Listening on port 52845
+1522571025930	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://112.124.53.237/nat123CacheFolder/7777772E6E61743132332E636F6D/3de4688ec05e4aecbfab54f04d6e3dfdCD30CE38D034D031DF31C93ACD34C535CC_478536b21debb8e6bebc1cbdd8bd9b94/js/jquery-1.4.1.js, line 3612: unreachable code after return statement
+JavaScript warning: http://112.124.53.237/nat123CacheFolder/7777772E6E61743132332E636F6D/3de4688ec05e4aecbfab54f04d6e3dfdCD30CE38D034D031DF31C93ACD34C535CC_478536b21debb8e6bebc1cbdd8bd9b94/js/jquery-1.4.1.js, line 3612: unreachable code after return statement
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 18032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1522571904139	geckodriver	INFO	geckodriver 0.20.0
+1522571904155	geckodriver	INFO	Listening on 127.0.0.1:53266
+1522571907207	mozrunner::runner	INFO	Running command: "D:\\Soft\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\xcche\\AppData\\Local\\Temp\\rust_mozprofile.UR3Oh5eVPj1V"
+1522571907972	Marionette	INFO	Enabled via --marionette
+1522571909924	Marionette	INFO	Listening on port 53275
+1522571910740	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://112.124.53.237/nat123CacheFolder/7777772E6E61743132332E636F6D/81b46384b24b45ca96716f6d3dd65370CD30CE38D034D031DF31C93ACC39C533C7_478536b21debb8e6bebc1cbdd8bd9b94/js/jquery-1.4.1.js, line 3612: unreachable code after return statement
+JavaScript warning: http://112.124.53.237/nat123CacheFolder/7777772E6E61743132332E636F6D/81b46384b24b45ca96716f6d3dd65370CD30CE38D034D031DF31C93ACC39C533C7_478536b21debb8e6bebc1cbdd8bd9b94/js/jquery-1.4.1.js, line 3612: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+1522572342902	geckodriver	INFO	geckodriver 0.20.0
+1522572342918	geckodriver	INFO	Listening on 127.0.0.1:53498
+1522572345983	mozrunner::runner	INFO	Running command: "D:\\Soft\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\xcche\\AppData\\Local\\Temp\\rust_mozprofile.FpqX0cYvWFP3"
+1522572346638	Marionette	INFO	Enabled via --marionette
+1522572348458	Marionette	INFO	Listening on port 53506
+1522572349166	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 16852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 13944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1522572366348	geckodriver	INFO	geckodriver 0.20.0
+1522572366371	geckodriver	INFO	Listening on 127.0.0.1:53547
+1522572369390	mozrunner::runner	INFO	Running command: "D:\\Soft\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\xcche\\AppData\\Local\\Temp\\rust_mozprofile.lFbEaZvX6i3o"
+1522572369984	Marionette	INFO	Enabled via --marionette
+1522572371754	Marionette	INFO	Listening on port 53561
+1522572372534	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1060:3
+
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4708, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522572389378	Marionette	ERROR	No reply from Marionette:Register
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: chrome://marionette/content/listener.js, line 466: TypeError: reply[0] is undefined
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 19368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1522572389460	Marionette	ERROR	No reply from Marionette:Register
+JavaScript error: chrome://marionette/content/listener.js, line 466: TypeError: reply[0] is undefined
+[Parent 4708, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4708, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 17268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1522572396933	geckodriver	INFO	geckodriver 0.20.0
+1522572396949	geckodriver	INFO	Listening on 127.0.0.1:53624
+1522572400011	mozrunner::runner	INFO	Running command: "D:\\Soft\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\xcche\\AppData\\Local\\Temp\\rust_mozprofile.iTevg0hWCuXQ"
+1522572400596	Marionette	INFO	Enabled via --marionette
+1522572402444	Marionette	INFO	Listening on port 53633
+1522572403164	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=wh&json=1&p=3&sid=1425_19033_21079_26105&req=2&csor=2&pwd=w&cb=jQuery110204262487632662538_1522572404024&_=1522572404027, line 1: TypeError: jQuery110204262487632662538_1522572404024 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=wha&json=1&p=3&sid=1425_19033_21079_26105&req=2&csor=3&pwd=wh&cb=jQuery110204262487632662538_1522572404024&_=1522572404028, line 1: TypeError: jQuery110204262487632662538_1522572404024 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=what%20i&json=1&p=3&sid=1425_19033_21079_26105&req=2&csor=6&pwd=what%20&cb=jQuery110204262487632662538_1522572404024&_=1522572404031, line 1: TypeError: jQuery110204262487632662538_1522572404024 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=w&json=1&p=3&sid=1425_19033_21079_26105&req=2&csor=1&cb=jQuery110204262487632662538_1522572404024&_=1522572404026, line 1: TypeError: jQuery110204262487632662538_1522572404024 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=what&json=1&p=3&sid=1425_19033_21079_26105&req=2&csor=4&pwd=wha&cb=jQuery110204262487632662538_1522572404024&_=1522572404029, line 1: TypeError: jQuery110204262487632662538_1522572404024 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=what%20&json=1&p=3&sid=1425_19033_21079_26105&req=2&csor=5&pwd=what&cb=jQuery110204262487632662538_1522572404024&_=1522572404030, line 1: TypeError: jQuery110204262487632662538_1522572404024 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=what%20is&json=1&p=3&sid=1425_19033_21079_26105&req=2&csor=7&pwd=what%20i&cb=jQuery110204262487632662538_1522572404024&_=1522572404032, line 1: TypeError: jQuery110204262487632662538_1522572404024 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=what%20is%20&json=1&p=3&sid=1425_19033_21079_26105&req=2&csor=8&pwd=what%20is&cb=jQuery110204262487632662538_1522572404024&_=1522572404033, line 1: TypeError: jQuery110204262487632662538_1522572404024 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=what%20is%20py&json=1&p=3&sid=1425_19033_21079_26105&req=2&csor=10&pwd=what%20is%20p&cb=jQuery110204262487632662538_1522572404024&_=1522572404035, line 1: TypeError: jQuery110204262487632662538_1522572404024 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=what%20is%20pyt&json=1&p=3&sid=1425_19033_21079_26105&req=2&csor=11&pwd=what%20is%20py&cb=jQuery110204262487632662538_1522572404024&_=1522572404036, line 1: TypeError: jQuery110204262487632662538_1522572404024 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=what%20is%20p&json=1&p=3&sid=1425_19033_21079_26105&req=2&csor=9&pwd=what%20is%20&cb=jQuery110204262487632662538_1522572404024&_=1522572404034, line 1: TypeError: jQuery110204262487632662538_1522572404024 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=what%20is%20pyth&json=1&p=3&sid=1425_19033_21079_26105&req=2&csor=12&pwd=what%20is%20pyt&cb=jQuery110204262487632662538_1522572404024&_=1522572404037, line 1: TypeError: jQuery110204262487632662538_1522572404024 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=what%20is%20python&json=1&p=3&sid=1425_19033_21079_26105&req=2&csor=14&pwd=what%20is%20pytho&cb=jQuery110204262487632662538_1522572404024&_=1522572404039, line 1: TypeError: jQuery110204262487632662538_1522572404024 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=what%20is%20pytho&json=1&p=3&sid=1425_19033_21079_26105&req=2&csor=13&pwd=what%20is%20pyth&cb=jQuery110204262487632662538_1522572404024&_=1522572404038, line 1: TypeError: jQuery110204262487632662538_1522572404024 is not a function
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8432, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8432, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8432, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\xcche\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 12908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
